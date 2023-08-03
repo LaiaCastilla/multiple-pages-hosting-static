@@ -1,0 +1,9 @@
+.navigation-links {
+  display: flex;
+  justify-content: center;
+}
+.homepage-link,
+.photo-link,
+.contact-link {
+  margin: 0 20px;
+}
